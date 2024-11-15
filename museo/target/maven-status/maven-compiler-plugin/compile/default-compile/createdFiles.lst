@@ -1,0 +1,7 @@
+com\example\demo\MuseoApplication.class
+com\example\demo\controller\ArtistaController.class
+com\example\demo\entity\Artista.class
+com\example\demo\entity\Mural.class
+com\example\demo\jpa\MuralRepository.class
+com\example\demo\controller\MuralController.class
+com\example\demo\jpa\ArtistaRepository.class
